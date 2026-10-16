@@ -5,7 +5,12 @@ A lightweight Linux image viewer built with Python, Qt, and Pillow.
 Features
 Browse and view images
 [Add your actual features here]
-[Add supported image formats]
+JPEG: .jpg, .jpeg
+PNG: .png
+WebP: .webp
+GIF: .gif
+BMP: .bmp
+TIFF: .tif, .tiff
 [Add any keyboard shortcuts or zoom controls]
 Screenshot
 
